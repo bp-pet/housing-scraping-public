@@ -1,6 +1,6 @@
 # Bot for scraping housing websites
 
-Use at your own risk.
+**This project should only be used for sites where scraping/automation is allowed! Do not use for sites that prohibit usage of scrapers!**
 
 ## Functionality
 Scrapes housing websites. If something new appears that matches the conditions, notify user.
