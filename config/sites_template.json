@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Site 1",
+        "codename": "Site 1",
+        "url": "url1.com",
+        "sound_file_name": "default.MP3",
+        "for_rent_text": "For rent"
+    },
+    {
+        "name": "Site 1",
+        "codename": "Site 1",
+        "url": "url2.com",
+        "sound_file_name": "custom_sound.MP3",
+        "for_rent_text": "Available for rent"
+    }
+]

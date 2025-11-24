@@ -1,0 +1,5 @@
+{
+    "EMAIL_ADDRESS": "test@mail.com",
+    "EMAIL_PASSWORD": "password",
+    "TARGET_ADDRESSES": ["target mail 1", "target mail 2"]
+}
